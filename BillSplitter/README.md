@@ -1,6 +1,6 @@
 # BillSplitter
 
-Splits <total_bill> a given <num_people>
+Splits `<total_bill>` a given `<num_people>`
 
 ## How to Run
 
